@@ -32,3 +32,5 @@ On running python file, it will ask for 2 inputs, **operation** and **expression
 2. To find the **area under a function**, enter expression as c:d|f(x) where c is the starting x value, d is the ending x value, and f(x) is the function under which you want the curve between the two x values.
 3. To compute **fractions**, enter expression as numerator(over)denominator. For example, to process 2/4 you must send in your expression as 2(over)4. The result expression will be in standard math notation (1/2, 3/4).  
 4. To compute **logarithms**, enter base and value to be calculated separated by vertical bar "|". Expression should be of the form base|value.
+# API:
+[Newton API](https://github.com/aunyks/newton-api)
